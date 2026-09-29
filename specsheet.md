@@ -1,4 +1,5 @@
 # Spec Sheet
+*notice*: i did use Claude to generate some of the information here such as the ORG names and IP ranges for the RIRs
 
 ## RIRs
 
